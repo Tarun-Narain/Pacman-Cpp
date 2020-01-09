@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1550484653 source:h:\c.c++\pacman\main.cpp
+	<iostream>
+	"GUI.h"
+	"gotoxy.h"
+	"color.h"
+	<fstream>
+	<thread>
+	"Map.h"
+
+1549899249 h:\c.c++\pacman\gui.h
+	"windows.h"
+	<stdio.h>
+
+1549899242 h:\c.c++\pacman\gotoxy.h
+	<windows.h>
+	<stdio.h>
+
+1499820826 h:\c.c++\pacman\color.h
+	<windows.h>
+	<stdio.h>
+
+1550382238 h:\c.c++\pacman\map.h
+	<fstream>
+	<iostream>
+
+1550381931 source:h:\c.c++\pacman\src\loader.cpp
+
